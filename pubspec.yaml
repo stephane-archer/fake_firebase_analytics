@@ -1,5 +1,5 @@
 name: firebase_analytics_mocks
-description: "A new Flutter package project."
+description: "allows you to mock firebase_alalytics."
 version: 0.0.1
 repository: "https://github.com/stephane-archer/fake_firebase_analytics/"
 

@@ -8,6 +8,8 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
+  firebase_analytics: ^10.10.1
+  firebase_core: ^2.29.0
   flutter:
     sdk: flutter
 
